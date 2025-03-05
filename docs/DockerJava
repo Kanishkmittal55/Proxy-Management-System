@@ -1,0 +1,2 @@
+The Docker Management service talks to the docker Integration service , which uses a the "Docker Java library". It wraps around Docker's REST API.
+

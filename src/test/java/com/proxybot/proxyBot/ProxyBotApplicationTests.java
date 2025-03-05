@@ -9,5 +9,4 @@ class ProxyBotApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
